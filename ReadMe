@@ -1,0 +1,1 @@
+Given an array and a number x, check whether any two elements of array add to x in nlog(n).
